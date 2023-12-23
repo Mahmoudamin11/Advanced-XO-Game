@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { 
+    --primary: #222831;
+    --cardColor: #2C343F;
+    --blueX: #41B3FF;
+    --orangeO: #EF9037;
+    --white: #FFFFFF;
+    --exit: #ff253a;
+    /* Shadow Colors */
+    --blueXShadow: #0474BE ;
+    --orangeOShadow: #C1650F;
+    --cardShadow: #1D232B ;
+    --whiteShadow: #DADADA;
+    /* Font */
+    --rubik: 'Rubik', sans-serif;
+}
